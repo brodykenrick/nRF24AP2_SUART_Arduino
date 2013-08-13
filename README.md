@@ -5,9 +5,11 @@ Nordic nRF24AP2 (ANT+) UART module interface for Arduino using SoftwareSerial (s
 
 This code was to determine and test the interface of a cheap Nordic nRF24AP (ANT+) UART module from Goodluckbuy (and various other places) and documenting the details.
 
-This module lacks any documentation.....
+This module, marked with "NRF24AP2 YJ-ANT", lacks any documentation.....
 http://www.goodluckbuy.com/nrf24ap2-networking-module-zigbee-module-with-ant-transceiver-.html
 (and very likely [not tested] http://www.goodluckbuy.com/nrf24ap2-wireless-module-zigbee-module.html  )
+
+Also appears to be at: http://www.aliexpress.com/store/product/Freeshipping-NRF24AP2-Wireless-Networking-Module-Zigbee-Module/809689_559703297.html
 
 The outcome of the testing is:
 
