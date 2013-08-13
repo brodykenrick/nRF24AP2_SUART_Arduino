@@ -9,7 +9,7 @@ This module lacks any documentation.....
 http://www.goodluckbuy.com/nrf24ap2-networking-module-zigbee-module-with-ant-transceiver-.html
 (and very likely [not tested] http://www.goodluckbuy.com/nrf24ap2-wireless-module-zigbee-module.html  )
 
-the outcome of the testing is:
+The outcome of the testing is:
 
 The connector on the module is (looking from the front, pin 1 is marked []):
 GND(=VSS) | VDD(=3.3 volts)
