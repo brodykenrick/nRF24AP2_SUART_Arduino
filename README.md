@@ -11,10 +11,14 @@ http://www.goodluckbuy.com/nrf24ap2-networking-module-zigbee-module-with-ant-tra
 
 The outcome of the testing is:
 
-The connector on the module is (looking from the front, pin 1 is marked []):
-GND(=VSS) | VDD(=3.3 volts)
+The connector on the module is (looking from the front, pin 1 is marked []) has
+
+[]GND(=VSS) | VDD(=3.3 volts)
+
 UART_TX   | UART_RX
+
 !(SUSP)   | SLEEP
+
 RTS       | !(RESET)
 
 Baud rate of the module is 9600 bps.
